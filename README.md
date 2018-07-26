@@ -3,8 +3,8 @@
 ## Tutorial(if needed)
 
 ### 1.Install required packages
-Make sure that you are using python3.
-Install the follwing packages:
+Make sure that you are using python3,
+and install the follwing packages:
 * numpy
 * sklearn
 * pandas
@@ -14,15 +14,15 @@ Install the follwing packages:
 * warnings
 * random
 
-Copy and paster the following command to terminal and run:
+You may install the packages above by copying and pasting the following command to terminal and run:
 
 _pip install numpy sklearn pandas hdbscan seaborn matplotlib warnings random_
 
-Install and/or update all other packages if there are prompts.
+Install and/or update all other packages if there were any prompts.
 
 ### 2.Run the following.py files in order:
 
-1. hdaSCAN.py
+1. hdbSCAN.py
 2. E3ClusterP.py
 3. 3dplotOutlier.py
 4. demo.py
