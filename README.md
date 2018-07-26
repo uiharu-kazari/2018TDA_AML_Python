@@ -41,3 +41,7 @@ Notice that the links are subjected to change.
 I recommend registering your own **plotly** account and change the _username_ and *api_key* in the top of E3clusterP.py.
 
 See [here](https://plot.ly/python/getting-started/#initialization-for-online-plotting) for reference.
+
+## 4.Remark
+
+tSNE.py contains the code for dimension reduction via t-distributed stochastic neighbor embedding method.
