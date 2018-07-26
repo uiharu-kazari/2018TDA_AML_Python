@@ -30,7 +30,11 @@ Install and/or update all other packages if there were any prompts.
 Where you will get the url of plots from the result of demo.py.
 
 ## 3.Plots
-Visit the following links if you want to have a look at the plots directly.
+You may:
+
+Take a look files Plot1.html and Plot2.html. Just drag the file into your browser. Use google chrome if it does not work.
+
+Visit the following links:
 
 [Clusters' coloring](https://plot.ly/~SakuraNene/8)
 
