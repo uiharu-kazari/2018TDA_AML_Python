@@ -36,9 +36,9 @@ Take a look files Plot1.html and Plot2.html. Just drag the file into your browse
 
 Visit the following links:
 
-[Clusters' coloring](https://plot.ly/~SakuraNene/8)
+[Clusters' coloring](https://plot.ly/~SakuraNene/12)
 
-[Outliers' Plot](https://plot.ly/~SakuraNene/10)
+[Outliers' Plot](https://plot.ly/~SakuraNene/14)
 
 Notice that the links are subjected to change.
 
