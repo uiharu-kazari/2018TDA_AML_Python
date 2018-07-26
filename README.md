@@ -46,6 +46,10 @@ I recommend registering your own **plotly** account and change the _username_ an
 
 See [here](https://plot.ly/python/getting-started/#initialization-for-online-plotting) for reference.
 
-## 4.Remark
+## 4.Remarks on plot files and data
+1. We perform hdbscan on the original 10k*48 Raw data(without any normalization), then draw the labels on the PCA data in 3D space, and get Plot3.html.
+Data of the labels is in *label_hdbscan_over_raw_data.txt*
+
+## 5.Futher Remark
 
 tSNE.py contains the code for dimension reduction via t-distributed stochastic neighbor embedding method.
