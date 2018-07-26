@@ -1,5 +1,8 @@
 # HDBSCAN and 3D-plotting for AML's PCL data
 
+
+# **See item 4 for remarks on plots and data.**
+
 ## Tutorial(if needed)
 
 ### 1.Install required packages
@@ -47,8 +50,10 @@ I recommend registering your own **plotly** account and change the _username_ an
 See [here](https://plot.ly/python/getting-started/#initialization-for-online-plotting) for reference.
 
 ## 4.Remarks on plot files and data
-1. We perform hdbscan on the original 10k*48 Raw data(without any normalization), then draw the labels on the PCA data in 3D space, and get Plot3.html.
-Data of the labels is in *label_hdbscan_over_raw_data.txt*
+1. We performed hdbscan on the PCA components 1~3, then draw the labels accordingly as shown in Plot1.html. Data of labels and outliers is in *OnPCAData.csv*.
+
+2. We performed hdbscan on the original 10k*48 Raw data(without any normalization), then draw the labels on the PCA data in 3D space, and get Plot3.html.
+Data of the labels and outliers is in *OnRawData.csv*.
 
 ## 5.Futher Remark
 
